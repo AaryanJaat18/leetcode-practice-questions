@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
