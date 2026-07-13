@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0319-bulb-switcher) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
