@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
+| [2485-find-the-pivot-integer](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0058-length-of-last-word) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
