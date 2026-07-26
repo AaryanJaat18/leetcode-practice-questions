@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
 ## Brainteaser
 |  |
