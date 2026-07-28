@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2485-find-the-pivot-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2485-find-the-pivot-integer) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
