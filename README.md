@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0877-stone-game) |
 | [2485-find-the-pivot-integer](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2485-find-the-pivot-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
