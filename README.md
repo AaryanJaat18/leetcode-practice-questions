@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0877-stone-game) |
+| [1480-running-sum-of-1d-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2485-find-the-pivot-integer) |
 ## Number Theory
 |  |
