@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
