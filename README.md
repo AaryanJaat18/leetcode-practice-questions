@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
 | ------- |
