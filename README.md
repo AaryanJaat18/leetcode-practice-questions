@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
