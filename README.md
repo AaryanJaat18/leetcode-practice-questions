@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
