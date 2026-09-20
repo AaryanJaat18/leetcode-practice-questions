@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
