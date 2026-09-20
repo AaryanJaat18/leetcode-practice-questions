@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0088-merge-sorted-array) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
