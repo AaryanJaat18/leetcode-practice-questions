@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0877-stone-game) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Brainteaser
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0561-array-partition) |
 ## Enumeration
 |  |
 | ------- |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/AaryanJaat18/leetcode-practice-questions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
